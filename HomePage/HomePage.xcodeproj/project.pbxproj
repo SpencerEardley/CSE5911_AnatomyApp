@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0913D7371A221F75003F4B42 /* Meninges.png in Resources */ = {isa = PBXBuildFile; fileRef = 0913D7351A221F75003F4B42 /* Meninges.png */; };
+		0913D7381A221F75003F4B42 /* Spinal Cord in situ.png in Resources */ = {isa = PBXBuildFile; fileRef = 0913D7361A221F75003F4B42 /* Spinal Cord in situ.png */; };
 		461B45E61950CE980000189B /* Cervical_Drawing.png in Resources */ = {isa = PBXBuildFile; fileRef = 461B45DE1950CE980000189B /* Cervical_Drawing.png */; };
 		461B45E71950CE980000189B /* Cervical_Scan.png in Resources */ = {isa = PBXBuildFile; fileRef = 461B45DF1950CE980000189B /* Cervical_Scan.png */; };
 		461B45E81950CE980000189B /* Lumbar_Drawing.png in Resources */ = {isa = PBXBuildFile; fileRef = 461B45E01950CE980000189B /* Lumbar_Drawing.png */; };
@@ -121,6 +123,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0913D7351A221F75003F4B42 /* Meninges.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Meninges.png; sourceTree = "<group>"; };
+		0913D7361A221F75003F4B42 /* Spinal Cord in situ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Spinal Cord in situ.png"; sourceTree = "<group>"; };
+		0990A55E1A194C62002244CE /* Popover.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Popover.h; sourceTree = "<group>"; };
 		461B45DE1950CE980000189B /* Cervical_Drawing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cervical_Drawing.png; sourceTree = "<group>"; };
 		461B45DF1950CE980000189B /* Cervical_Scan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cervical_Scan.png; sourceTree = "<group>"; };
 		461B45E01950CE980000189B /* Lumbar_Drawing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lumbar_Drawing.png; sourceTree = "<group>"; };
@@ -325,6 +330,8 @@
 		5962242019508A3A00701B76 /* Gross */ = {
 			isa = PBXGroup;
 			children = (
+				0913D7351A221F75003F4B42 /* Meninges.png */,
+				0913D7361A221F75003F4B42 /* Spinal Cord in situ.png */,
 				46AC5F0D193E6461003F1E12 /* Gross.png */,
 			);
 			name = Gross;
@@ -517,6 +524,7 @@
 				D06E5E47192FA51D00A12651 /* HomePageViewController.m */,
 				D06E5E49192FA51D00A12651 /* Images.xcassets */,
 				D06E5E38192FA51D00A12651 /* Supporting Files */,
+				0990A55E1A194C62002244CE /* Popover.h */,
 			);
 			path = HomePage;
 			sourceTree = "<group>";
@@ -684,6 +692,7 @@
 				46AC5F14193E6461003F1E12 /* Gross.png in Resources */,
 				5962243019508A3A00701B76 /* Neural Tube Labelled.png in Resources */,
 				466C49B8193BBA0F000B2A78 /* Black Burger.png in Resources */,
+				0913D7381A221F75003F4B42 /* Spinal Cord in situ.png in Resources */,
 				5962243819508A3A00701B76 /* neuro-cerv.jpg in Resources */,
 				461B45EA1950CE980000189B /* Sacral_Drawing.png in Resources */,
 				D02074EE1944FF8700AADFDA /* White Burger.png in Resources */,
@@ -739,6 +748,7 @@
 				5962243719508A3A00701B76 /* neuro-cerv-scan.jpg in Resources */,
 				D0D8CC20195B7125009ECF3E /* E1.png in Resources */,
 				D0253F48193FE10A00CFE2AC /* E6.png in Resources */,
+				0913D7371A221F75003F4B42 /* Meninges.png in Resources */,
 				5962242F19508A3A00701B76 /* Neural Tube Formation.png in Resources */,
 				5962243419508A3A00701B76 /* Spinal Cord Further Development.png in Resources */,
 				5962243919508A3A00701B76 /* neuro-lumb-scan.jpg in Resources */,

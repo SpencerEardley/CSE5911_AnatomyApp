@@ -38,6 +38,8 @@
 	<string>Continuation of the nerve cell processes from the dorsal root. The dorsal rootlets enter the spinal cord at the posterolateral sulcus.</string>
 	<key>Dorsal spinocerebellar tract</key>
 	<string>Ascending tract responsible for conveying proprioceptive information from skeletal muscles and joints to the cerebellum. Axons relaying this sensory information synapse with Clarke’s nucleus. Axons from Clarke’s nucleus project to a portion of the lateral funiculus, which is the organized dorsal spinocerebellar tract. These axons enter the cerebellum through the inferior cerebellar peduncle and terminate within the ipsilateral side of the cerebellum, thus no part of this tract crosses to the contralateral side. Clarke’s nucleus does not extend below the L3 spinal cord level, and thus neither does the dorsal spinocerebellar tract.</string>
+	<key>Dorsolateral tract</key>
+	<string>The dorsolateral tract contains projecting axons from the dorsal root ganglion relaying pain and temperature information. These axons will ascend or descend one to two spinal segments to synapse with the second order neurons, the substantia gelatinosa.</string>
 	<key>Fasciculus cuneatus</key>
 	<string>Rostral to T6 the dorsal column of spinal cord white matter is divided by the posterior intermediate septum into the fasciculus cuneatus and gracilis. Consist of the first order axons for the medial lemniscus system rostral to T6.</string>
 	<key>Fasciculus gracilis</key>
@@ -58,6 +60,8 @@
 	<string>Descending motor tract consisting of axons from the contralateral motor cortex (upper motor neurons). These fibers crossed within the caudal medulla at the pyramidal decussation to descend the remainder of the spinal cord on the contralateral side. Axons within this tract will synapse with neurons in the spinal cord along its length (lower motor neurons). The lower motor neurons leave the spinal cord to innervate skeletal muscle allowing for voluntary movement. </string>
 	<key>Lateral spinothalamic tract</key>
 	<string>Together with the anterior spinothalamic tract, collectively referred to as the anterolateral system. Axons within the lateral spinothalamic tract convey pain and temperature sensation from the contralateral side of the body. The axons occupying the tract ascend to synapse with neurons within the thalamus as well as axons within reticular formation. </string>
+	<key>Lateral vestibulospinal tract</key>
+	<string>Descending tract of the ventromedial fasciculus composed of fibers from the lateral, superior and inferior vestibular nuclei. These fibers project ipsilaterally down to the lumbar region of the spinal cord. These fibers aid in maintaining balanced posture by stimulating motor neurons in the legs and muscles of the trunk. </string>
 	<key>Lissauer’s tract</key>
 	<string>Located between the substantia gelatinosa and the surface of the spinal cord. Consists of centrally projecting axons from neurons within the dorsal root ganglion specifically relaying pain and temperature information. The axons within this tract ascend 1-2 spinal segments before synapsing with second-order neurons within the substantia gelatinosa.</string>
 	<key>Lower motor neuron</key>
